@@ -1,9 +1,11 @@
 {
-"Bug_report":
-  [
-    "Steps_to_reproduce",
-    "Actual_result",
-    "Expected_result",
-    "Attachment"
-  ]
+	"Bub_report":
+	{
+		"summary": "Не добавляется товар в корзину",
+		"Project": "web site",
+		"Component": "site shopping cart",
+		"Version": 1.001,
+		"Severity": "Blocker",
+		"Priority": "High"
+	}
 }
